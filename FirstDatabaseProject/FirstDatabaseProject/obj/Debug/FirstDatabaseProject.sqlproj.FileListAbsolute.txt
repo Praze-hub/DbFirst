@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\bin\Debug\FirstDatabaseProject.dacpac
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\bin\Debug\FirstDatabaseProject.dll
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\bin\Debug\FirstDatabaseProject.pdb
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\FirstDatabaseProject.sqlproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\Model.xml
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\refactor.xml
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\postdeploy.sql
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\predeploy.sql
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\FirstDatabaseProject.dll
+C:\Users\DELL\Desktop\project 1\Db FirstApproach\FirstDatabaseProject\FirstDatabaseProject\obj\Debug\FirstDatabaseProject.pdb
